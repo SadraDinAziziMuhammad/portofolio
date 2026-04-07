@@ -40,7 +40,7 @@ export default function Home() {
 
             <p className="mb-4 text-gray-700 leading-relaxed">
                 Ungraduate Informatic Engineering | Full Stack Web Development Enthusiast | SIB Batch 5 at Skilvul | Internship at PT LRT Jakarta</p>
-            <a href='/img/CV Sadra Din Azizi Muhammad.pdf'
+            <a href='/img/CV ATS Sadra.pdf'
                 download
                 className="mb-4 px-5 py-1 rounded-full border border-gray-30 font-light items-center hover:bg-gray-100 transition">
                 Download CV
