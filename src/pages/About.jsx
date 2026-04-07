@@ -23,9 +23,7 @@ const About = () => {
         <hr className="mb-8 border-gray-300" />
 
         <p className='mb-4 text-justify text-gray-700'>
-          I am an undergraduate student in Informatics Engineering at Universitas Islam Sultan Agung (UNISSULA) with a strong interest in technology development, particularly in Fullstack Web Development. I participated in the Kampus Merdeka program, which enriched me with practical experience, industry insights, and enhanced both my technical and soft skills. I am proficient in modern technologies such as React.js, Node.js, and SQL database management, focusing on creating effective and efficient technological solutions.</p>
-        <p className='mb-4 text-justify text-gray-700'>
-          Additionally, I have internship experience at PT LRT Jakarta as part of the developer team and IT support, where I was actively involved in system development, technical problem-solving, and IT infrastructure management. I am committed to continuous learning and contributing positively through innovative technology implementation.</p>
+          Informatics Engineering graduate with a strong specialization in Full Stack Web Development. Experienced in building end-to-end web applications, from wireframing in Figma to developing responsive frontends with React.js and managing databases using SQL. Proven track record in developing a design system for Jakarta LRT and managing IT infrastructure for 100+ users. A structured and communicative professional with a unique blend of technical development skills and operational IT Support expertise, ready to contribute to complex software projects.</p>
       </div>
 
       <section className='mt-12'>
